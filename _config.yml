@@ -1,7 +1,7 @@
 # blank-dev-template
 # basic bootstrap template
-title: Lib-STATIC Project Management Kit Template
-description: This is the example template for our Project Management Kit. The site uses  
+title: Test Project for Kate
+description: This is a test project for kate. 
 # Project-start and project-end determine the time span of the project
 # If unsure, extend further into the past and future than you think necessary, use yyyy-mm-dd
 project-start: 2020-09-01
@@ -9,11 +9,12 @@ project-end: 2021-08-31
 
 ## this part refers to the service agreement the site prompts you to fill out. 
 # when the agreement is finalized [agreement-final: true], means for editing it disappear from the site
-agreement-final: # when agreement finalized, write "true"; otherwise leave blank
+agreement-final: true # when agreement finalized, write "true"; otherwise leave blank
 # List parties to the agreement by adding " - [party_name]"
-agreement-parties:
- - 
+agreement-parties: 
+ - dcnb
  - CDIL
+ - Kate Thornhill
 
 
 # github-id is your github username
