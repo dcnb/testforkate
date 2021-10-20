@@ -1,0 +1,102 @@
+all: 
+  - section: 
+    title: Project Intention
+    subsections:
+    - title: Project Title* 
+      prompts:
+      - text: What is the title?
+    - title: Project Description* 
+      prompts:
+      - text: What is the title?
+      - text: What are we trying to do?
+      - text: What is in scope? 
+      - text: What is out of scope?
+    - title: Project Sponsor
+      prompts:
+      - text: Who initiated this project?
+      - text: Who else will work on it?
+    - title: Audience*
+      prompts:
+      - text: Who is this project for?
+      - text: How will they use it?
+    - title: Project Term Start* 
+      prompts:
+      - text: When will this project begin?
+    - title: Project Term End*
+      prompts:
+      - text: When will this project end?
+    - title: Time Constraints
+      prompts:
+      - text: What is the deadline?
+      - text: When will this project be complete?
+    - title: Major Project Milestones*
+      prompts:
+      - text: Identify major project milestones
+    - title: Project Copyright & Licensing*
+      prompts:
+      - text: Who holds project copyright?
+      - text: How will you license this project for reuse?
+  - section: 
+    title: Assessment & Evaluation
+    subsections:
+    - title: Deliverables*
+      prompts: 
+      - text: What do we hope to have at the end of the project? Be specific.
+    - title: Objectives*
+      prompts:
+      - text: What are we going to do to meet the deliverables?
+  - section: 
+    title: Team Members
+    subsections:
+    - title: Project Team Members*
+      prompts:
+      - text: Who is working on the project?
+      - text: What are their role?
+    - title: Project Team Constraints
+      prompts:
+      - text: When will team members be available?
+      - text: When will team members not be available?
+  - section: 
+    title: Communications 
+    subsections:
+    - title: Team Communications
+      prompts:
+      - text: Where should communications be distributed to the project team?
+      - text: What communication tools will be used?
+    - title: Project Completion Communication 
+      prompts:
+      - text: Who communicates project completion?
+      - text: What needs to be communicated about the project?
+      - text: When should communications be sent to the project team?
+      - text: Where should communications be distributed to the project team?
+      - text: What communication tools will be used?
+  - section: 
+    title: Marketing & Outreach
+    subsections:
+    - title: Target audiences
+      prompts:
+      - text: What audience should this project be marketed toward?
+    - title: Outreach Materials
+      prompts:
+      - text: What types of project marketing materials will you need for outreach?
+    - title: Promotional tactics
+      prompts:
+      - text: What outreach activities should be pursued?
+      - text: How do they meet audience needs?
+      - text: When will outreach materials be disseminated?
+    - title: Project Celebration
+      prompts:
+      - text: When will this project launch be showcased?
+  - section: 
+    title: Post-Project Sustainability
+    subsections:
+    - title: Continued Development Next Steps*
+      prompts:
+      - text: What are the next steps after the project is finished?
+    - title: Sustaining the Digital Project Record
+      prompts:
+      - text: What project components should be sustained?
+      - text: Describe how the digital project record will be sustained by UO Libraries.
+    - title: Sustainability Roles & Responsibilities
+      prompts:
+      - text: Who and what are the roles for overseeing the project’s sustainability?
