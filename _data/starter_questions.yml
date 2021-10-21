@@ -100,3 +100,16 @@ all:
     - title: Sustainability Roles & Responsibilities
       prompts:
       - text: Who and what are the roles for overseeing the project’s sustainability?
+- section: 
+    title: TEST ADDING TO THE ACCORDIAN
+    subsections:
+    - title: Continued Development Next Steps*
+      prompts:
+      - text: What are the next steps after the project is finished?
+    - title: Sustaining the Digital Project Record
+      prompts:
+      - text: What project components should be sustained?
+      - text: Describe how the digital project record will be sustained by UO Libraries.
+    - title: Sustainability Roles & Responsibilities
+      prompts:
+      - text: Who and what are the roles for overseeing the project’s sustainability?
