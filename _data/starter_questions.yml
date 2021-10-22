@@ -100,7 +100,7 @@ all:
     - title: Sustainability Roles & Responsibilities
       prompts:
       - text: Who and what are the roles for overseeing the project’s sustainability?
-- section: 
+  - section: 
     title: TEST ADDING TO THE ACCORDIAN
     subsections:
     - title: Continued Development Next Steps*
